@@ -1,0 +1,38 @@
+h1 {
+    color: rgba(109, 18, 48, 0.979);
+    font-size: 55px;
+    font-family: 'Cormorant Garamond', serif; 
+    background-color: rgb(228, 207, 224);
+}
+
+p {
+    color: rgb(38, 9, 105);
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+    
+    background-color: rgb(204, 161, 221); 
+    border-radius: 10%;  
+
+}
+h2 {
+    color: rgb(168, 40, 168);
+    font-size: 40px;
+    text-indent: 10px;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: rgb(228, 207, 224);
+}
+h3 {
+    color: rgb(161, 114, 223);
+    font-size: 40px;
+    text-indent: 10px;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: rgb(228, 207, 224);
+}
+.vapor-number {
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Orbitron", sans-serif;
+    color: #cf5fae;
+    text-shadow: -2px 2px 0px #e987dc, -4px 4px 0px #cba4e5;
+    background-color: rgb(228, 207, 2)
+}
